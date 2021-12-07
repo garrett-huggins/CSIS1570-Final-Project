@@ -1,2 +1,12 @@
 # Web Systems Final Project
-This is a mockup website for a game development studio.
+
+#### Summary
+Mockup website for a game development studio
+
+### Built With:
+HTML
+CSS
+Javascript
+#### Frameworks
+Bootstrap
+Ajax
