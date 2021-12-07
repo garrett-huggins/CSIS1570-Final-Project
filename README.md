@@ -1,6 +1,6 @@
 # Web Systems Final Project
 
-#### Summary
+## Summary
 Mockup website for a game development studio
 
 ### Built With:
