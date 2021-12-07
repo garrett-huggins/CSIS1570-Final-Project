@@ -7,6 +7,7 @@ Mockup website for a game development studio
 * HTML
 * CSS
 * Javascript
+
 #### Frameworks
 * Bootstrap
 * Ajax
