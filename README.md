@@ -4,8 +4,8 @@
 Mockup website for a game development studio
 
 ### Built With:
-HTML
-CSS
+..*HTML
+..*CSS
 Javascript
 #### Frameworks
 Bootstrap
